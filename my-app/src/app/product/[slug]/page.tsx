@@ -6,7 +6,7 @@ interface Props {
 
 export default function PantsPage({params} : Props) {
   return (
-    <h1>{params.slug}PantsPage</h1>
+    <h1>{params.slug} 제품 설명 페이지</h1>
   )
 }
 
